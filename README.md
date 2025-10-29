@@ -1,10 +1,12 @@
 # Python_Diwali_Sales_Analysis
 Diwali Sales Data Analysis – Project Summary 
+
 Objective: 
 The main goal of this project was to analyse Diwali sales data to understand customer demographics, 
 purchasing behaviour, top-performing products and categories, and regional sales trends. These 
 insights can help optimize marketing strategies, inventory planning, and promotional campaigns 
 during festive seasons. 
+
 Dataset Overview 
 • Columns: User_ID, Cust_name, Product_ID, Gender, Age Group, Age, Marital_Status, State, 
 Zone, Occupation, Product_Category, Orders, Amount, Status, unnamed1. 
@@ -12,6 +14,7 @@ Zone, Occupation, Product_Category, Orders, Amount, Status, unnamed1.
 o Numerical: Age, Orders, Amount 
 o Categorical: Gender, Age Group, Marital_Status, State, Zone, Occupation, 
 Product_Category, Status 
+
 Initial Data Exploration: 
 1. Null Values Check: The dataset is mostly complete, with minimal missing values. The 
 unnamed1 column appears unnecessary and was dropped to clean the data. 
@@ -20,7 +23,8 @@ identify average orders, total sales, and customer age distribution, providing a
 further analysis. 
 3. Categorical Data Insights: Value counts of categorical columns (Product_Category, Gender, 
 Marital_Status, Occupation, State, Zone) revealed popular product categories and key 
-demographic segments, guiding targeted analysis. 
+demographic segments, guiding targeted analysis.
+
 Key Insights from Analysis 
 1. Gender & Purchasing Power: Majority of buyers are female, exhibiting higher purchasing 
 power than males. 
@@ -33,7 +37,8 @@ responsibility.
 disposable income. 
 6. Product Categories: Food, Clothing, and Electronics are the most purchased categories. 
 7. Top Products: Analysis of the top 10 products by orders highlights products that dominate 
-sales and drive revenue. 
+sales and drive revenue.
+
 Actionable Suggestions 
 1. Target Audience: Focus marketing campaigns on married women aged 26–35 in high-sales 
 states (UP, Maharashtra, Karnataka) to maximize ROI. 
@@ -44,7 +49,8 @@ delivery logistics, particularly during the last 7–10 days before Diwali, the 
 4. Occupation-Based Marketing: Target IT, Healthcare, and Aviation professionals with 
 personalized campaigns and offers to reach high-value customers effectively. 
 5. Festive Strategy: Implement flash sales, loyalty rewards, and personalized recommendations 
-during the peak festive days to drive sales and customer engagement. 
+during the peak festive days to drive sales and customer engagement.
+
 Overall Conclusion 
 This Diwali Sales Analysis provides a data-driven understanding of customer demographics, 
 product preferences, and regional trends. By focusing on high-value customers, top-selling 
